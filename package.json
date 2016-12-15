@@ -1,0 +1,17 @@
+{
+  "name": "mobx-dynode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/dynode.js",
+  "scripts": {
+    "test": "jasmine spec/*"
+  },
+  "author": "daimengchen@gmail.com",
+  "license": "MIT",
+  "peerDependencies": {
+    "mobx": "^2.7.0"
+  },
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0"
+  }
+}
